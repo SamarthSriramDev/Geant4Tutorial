@@ -1,4 +1,5 @@
 #include "construction.hh"
+
 #include "detector.hh"
 
 MyDetectorConstruction::MyDetectorConstruction() {}
